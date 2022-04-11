@@ -26,10 +26,10 @@ for adv_type in "${ADVANCEMENT_TYPES[@]}"; do
     for is_dfs in 0 1; do
         for oppP in 0.8 0.9; do
                 # Strategy 1.
-                srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 1.0 --oppP $oppP --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn p --psc p --osc e --prc smin --orc smin
+                srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode approx --one 1 --outputArg 0 --propP 1.0 --oppP $oppP --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn p --psc p --osc e --prc smin --orc smin
 
                 # Strategy 2.
-                srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 1.0 --oppP $oppP --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn o --psc e --osc p --prc smin --orc smin
+                srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode approx --one 1 --outputArg 0 --propP 1.0 --oppP $oppP --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn o --psc e --osc p --prc smin --orc smin
 
                 # Strategy 3.
                 srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 1.0 --oppP $oppP --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn s --psc p --osc e --prc smin --orc smin
