@@ -1,0 +1,15 @@
+% removing empty lines
+
+find . -name '*.pl' -exec sed -ri '/^\s*$/d' {} \;
+
+% removing lines starting with %
+find . -name '*.pl' -exec sed -ri '/^%/d' {} \;
+
+% removing lines starting with goal
+find . -name '*.pl' -exec sed -ri '/^goal/d' {} \;
+
+% replace asm by assumption
+find . -name '*.pl' -exec sed -i 's/asm/assumption/g' {} \;
+
+% replace in the other direction
+find . -name '*.pl' -exec sed -i 's/assumption/asm/g' {} \;

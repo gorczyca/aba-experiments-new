@@ -1,0 +1,7 @@
+instance,goal,selfContradicting,derivableFromEmpty,derivableAtAll,nonAttackedAssumption
+exp_acyclic_depvary_step10_batch_yyy01.pl,a1,false,false,true,false
+exp_acyclic_depvary_step10_batch_yyy01.pl,p5,false,false,false,false
+exp_acyclic_depvary_step10_batch_yyy01.pl,e5,false,false,true,false
+exp_acyclic_depvary_step10_batch_yyy01.pl,c3,false,false,true,false
+exp_acyclic_depvary_step10_batch_yyy01.pl,f1,false,false,true,true
+exp_acyclic_depvary_step10_batch_yyy01.pl,r3,false,false,false,false

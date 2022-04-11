@@ -1,0 +1,562 @@
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough | igC: 
+    PF2: w4WheelsSkinny | igP: norFrameStepthrough | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+OB2: xFrameLightweight ← frameRugged | igP: norFrameStepthrough,w4WheelsSkinny | igC: 
+    NO
+PF2: norHandlebarTypeCity | igP: norFrameStepthrough | igC: 
+

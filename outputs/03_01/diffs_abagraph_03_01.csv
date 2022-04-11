@@ -1,0 +1,10 @@
+goal,instance,ruleDD_verdict,abagraph_verdict
+c3,exp_cycles_depvary_step10_batch_yyy03.pl,yes,timeout
+d1,exp_cycles_depvary_step6_batch_yyy02.pl,yes,timeout
+q5,exp_cycles_depvary_step9_batch_yyy03.pl,no,timeout
+e3,exp_cycles_depvary_step9_batch_yyy08.pl,yes,timeout
+q1,exp_cycles_indvary1_step2_batch_yyy02.pl,no,timeout
+t2,exp_cycles_indvary1_step3_batch_yyy01.pl,no,timeout
+b2,exp_cycles_indvary1_step3_batch_yyy06.pl,yes,timeout
+w1,exp_cycles_indvary2_step1_batch_yyy08.pl,no,timeout
+f2,exp_cycles_indvary2_step2_batch_yyy01.pl,yes,timeout

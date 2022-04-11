@@ -1,0 +1,17 @@
+[ norHandlebarTypeRoad,w2TypeRoad,norHandlebarTypeTouring,norTypeRoad,norFrameStepthrough,w4WheelsSkinny ]
+
+[ w1HandlebarElevated,w5Suspension,norHandlebarTypeCity,w4WheelsSkinny,w3FrameRugged,norTypeMountainSuspension ]
+
+[ w1HandlebarElevated,norTypeRoad,norHandlebarTypeCity,w2TypeRoad,norFrameStepthrough,w4WheelsSkinny ]
+
+[ w1HandlebarElevated,w5Suspension,norTypeMountainSuspension,w7FrameStepthrough,norHandlebarTypeCity,norFrameStepthrough,w4WheelsSkinny ]
+
+[ norSuspensionTypeTouring,norHandlebarTypeRoad,w2TypeRoad,norHandlebarTypeTouring,norTypeRoad,norFrameStepthrough,norSuspensionTypeRoad,w4WheelsSkinny ]
+
+[ w5Suspension,norTypeMountainSuspension,norHandlebarTypeRoad,w2TypeRoad,norHandlebarTypeTouring,norTypeRoad,norFrameStepthrough,w4WheelsSkinny ]
+
+[ norSuspensionTypeTouring,w1HandlebarElevated,norTypeRoad,norHandlebarTypeCity,w2TypeRoad,norFrameStepthrough,norSuspensionTypeRoad,w4WheelsSkinny ]
+
+[ w1HandlebarElevated,w5Suspension,norTypeMountainSuspension,norTypeRoad,norHandlebarTypeCity,w2TypeRoad,norFrameStepthrough,w4WheelsSkinny ]
+
+[ norSuspensionTypeTouring,w1HandlebarElevated,norTypeCity1,w7FrameStepthrough,norTypeCity2,norHandlebarTypeCity,norFrameStepthrough,norSuspensionTypeRoad,w4WheelsSkinny ]

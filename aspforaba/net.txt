@@ -1,0 +1,121 @@
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension,norTypeMountainSuspension
+    NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: w4WheelsSkinny | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: 
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension,norTypeMountainSuspension
+    NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: w4WheelsSkinny | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: 
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension,norTypeMountainSuspension
+    NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: w4WheelsSkinny | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: 
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension,norTypeMountainSuspension
+    NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+        NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeCity | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+    PB2: xSuspension ← typeRoad,norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+        NO
+OB2: xFrameLightweight ← frameRugged | igP: w4WheelsSkinny | igC: 
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: 
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: 
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: 
+            NO
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny,norSuspensionTypeRoad | igC: 
+        NO
+OB2: xWheelsSkinny ← wheelsWide | igP: w4WheelsSkinny | igC: w5Suspension
+    PB2: xSuspension ← typeTouring,norSuspensionTypeTouring | igP: w4WheelsSkinny | igC: w5Suspension
+        PF2: norSuspensionTypeRoad | igP: w4WheelsSkinny | igC: w5Suspension
+            NO
+

@@ -1,0 +1,23 @@
+clingo version 5.5.0
+Reading from ...a_src/first_level_encodings/stb-aba.dl ...
+Solving...
+Answer: 1
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 2
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 3
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 4
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 5
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 6
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 7
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+SATISFIABLE
+
+Models       : 7
+Calls        : 1
+Time         : 0.010s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.010s

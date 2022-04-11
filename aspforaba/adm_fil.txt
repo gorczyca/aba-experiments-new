@@ -1,0 +1,827 @@
+clingo version 5.5.0
+Reading from ...a_src/first_level_encodings/adm-aba.dl ...
+Solving...
+Answer: 1
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 2
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 3
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 4
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity)
+Answer: 5
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 6
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norFrameStepthrough)
+Answer: 7
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norTypeMountainSuspension)
+Answer: 8
+in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough)
+Answer: 9
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 10
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 11
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 12
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norFrameStepthrough)
+Answer: 13
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 14
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norHandlebarTypeCity)
+Answer: 15
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough) in(norTypeMountainSuspension)
+Answer: 16
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(w7FrameStepthrough)
+Answer: 17
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 18
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norFrameStepthrough)
+Answer: 19
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norHandlebarTypeCity)
+Answer: 20
+in(w4WheelsSkinny) in(w7FrameStepthrough)
+Answer: 21
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 22
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norFrameStepthrough)
+Answer: 23
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norHandlebarTypeCity)
+Answer: 24
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough)
+Answer: 25
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 26
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 27
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 28
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 29
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 30
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 31
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 32
+in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 33
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 34
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 35
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2)
+Answer: 36
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2)
+Answer: 37
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 38
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 39
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2)
+Answer: 40
+in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2)
+Answer: 41
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 42
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 43
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 44
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 45
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 46
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 47
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2)
+Answer: 48
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2)
+Answer: 49
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 50
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 51
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 52
+in(w7FrameStepthrough) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 53
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 54
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 55
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2)
+Answer: 56
+in(w7FrameStepthrough) in(norTypeCity2)
+Answer: 57
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 58
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 59
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 60
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 61
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 62
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 63
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 64
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 65
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 66
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 67
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 68
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 69
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 70
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 71
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 72
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 73
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 74
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 75
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 76
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 77
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 78
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 79
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 80
+in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 81
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 82
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 83
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 84
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 85
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 86
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 87
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 88
+in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 89
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 90
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 91
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 92
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 93
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 94
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 95
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 96
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 97
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 98
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 99
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 100
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 101
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 102
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 103
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 104
+in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 105
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 106
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 107
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 108
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 109
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 110
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 111
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 112
+in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 113
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 114
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 115
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 116
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 117
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 118
+in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 119
+in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 120
+in(w7FrameStepthrough) in(norTypeCity2) in(norHandlebarTypeCity)
+Answer: 121
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 122
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 123
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 124
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 125
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 126
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 127
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 128
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 129
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 130
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 131
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 132
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 133
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 134
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 135
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 136
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1) in(norHandlebarTypeCity)
+Answer: 137
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 138
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 139
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 140
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 141
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 142
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 143
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 144
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 145
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 146
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 147
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2)
+Answer: 148
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1) in(norTypeCity2)
+Answer: 149
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1)
+Answer: 150
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity1)
+Answer: 151
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1)
+Answer: 152
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity1)
+Answer: 153
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 154
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 155
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 156
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 157
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 158
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norTypeCity2)
+Answer: 159
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2)
+Answer: 160
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1) in(norTypeCity2)
+Answer: 161
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 162
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 163
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 164
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1) in(norFrameStepthrough)
+Answer: 165
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1)
+Answer: 166
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity1)
+Answer: 167
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity1)
+Answer: 168
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity1)
+Answer: 169
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 170
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 171
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 172
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 173
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 174
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 175
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2)
+Answer: 176
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeRoad) in(norTypeCity2)
+Answer: 177
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 178
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 179
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 180
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity2) in(norFrameStepthrough)
+Answer: 181
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 182
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norSuspensionTypeTouring) in(norTypeCity2)
+Answer: 183
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w7FrameStepthrough) in(norTypeCity2)
+Answer: 184
+in(w1HandlebarElevated) in(w7FrameStepthrough) in(norTypeCity2)
+Answer: 185
+in(w3FrameRugged) in(w4WheelsSkinny) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 186
+in(w3FrameRugged) in(w4WheelsSkinny) in(norTypeMountainSuspension)
+Answer: 187
+in(w3FrameRugged) in(w4WheelsSkinny) in(norHandlebarTypeCity)
+Answer: 188
+in(w3FrameRugged) in(w4WheelsSkinny)
+Answer: 189
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 190
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(norHandlebarTypeCity)
+Answer: 191
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(norTypeMountainSuspension)
+Answer: 192
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny)
+Answer: 193
+in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 194
+in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 195
+in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity)
+Answer: 196
+in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension)
+Answer: 197
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 198
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity)
+Answer: 199
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 200
+in(w1HandlebarElevated) in(w3FrameRugged) in(w4WheelsSkinny) in(w5Suspension)
+Answer: 201
+in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 202
+in(w4WheelsSkinny) in(w5Suspension)
+Answer: 203
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 204
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 205
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity)
+Answer: 206
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(w5Suspension)
+Answer: 207
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 208
+in(w2TypeRoad) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 209
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad)
+Answer: 210
+in(w2TypeRoad) in(norTypeRoad)
+Answer: 211
+in(w2TypeRoad) in(w4WheelsSkinny) in(norFrameStepthrough)
+Answer: 212
+in(w2TypeRoad) in(norFrameStepthrough)
+Answer: 213
+in(w2TypeRoad) in(w4WheelsSkinny)
+Answer: 214
+in(w2TypeRoad)
+Answer: 215
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 216
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 217
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 218
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 219
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeCity)
+Answer: 220
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeCity)
+Answer: 221
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad)
+Answer: 222
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad)
+Answer: 223
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 224
+in(w1HandlebarElevated) in(w2TypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 225
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeCity)
+Answer: 226
+in(w1HandlebarElevated) in(w2TypeRoad) in(norHandlebarTypeCity)
+Answer: 227
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norFrameStepthrough)
+Answer: 228
+in(w1HandlebarElevated) in(w2TypeRoad) in(norFrameStepthrough)
+Answer: 229
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny)
+Answer: 230
+in(w1HandlebarElevated) in(w2TypeRoad)
+Answer: 231
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 232
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 233
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 234
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 235
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 236
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 237
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad)
+Answer: 238
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad)
+Answer: 239
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 240
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 241
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 242
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 243
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 244
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 245
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad)
+Answer: 246
+in(w2TypeRoad) in(norHandlebarTypeRoad)
+Answer: 247
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 248
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 249
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 250
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 251
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 252
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 253
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 254
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 255
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring)
+Answer: 256
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring)
+Answer: 257
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring)
+Answer: 258
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring)
+Answer: 259
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 260
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 261
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad)
+Answer: 262
+in(w2TypeRoad) in(norTypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad)
+Answer: 263
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 264
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 265
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 266
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 267
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 268
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 269
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 270
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 271
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring)
+Answer: 272
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring) in(norSuspensionTypeTouring)
+Answer: 273
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring)
+Answer: 274
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeTouring)
+Answer: 275
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 276
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 277
+in(w2TypeRoad) in(w4WheelsSkinny) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad)
+Answer: 278
+in(w2TypeRoad) in(norHandlebarTypeRoad) in(norSuspensionTypeRoad)
+Answer: 279
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 280
+in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 281
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 282
+in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 283
+in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 284
+in(w2TypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 285
+in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 286
+in(w2TypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 287
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 288
+in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 289
+in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad)
+Answer: 290
+in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad)
+Answer: 291
+in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 292
+in(w2TypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 293
+in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad)
+Answer: 294
+in(w2TypeRoad) in(norSuspensionTypeRoad)
+Answer: 295
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 296
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 297
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 298
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 299
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 300
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 301
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 302
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 303
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 304
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 305
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 306
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 307
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 308
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norFrameStepthrough)
+Answer: 309
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 310
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad) in(norFrameStepthrough)
+Answer: 311
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity)
+Answer: 312
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity)
+Answer: 313
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeCity)
+Answer: 314
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeCity)
+Answer: 315
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity)
+Answer: 316
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring) in(norHandlebarTypeCity)
+Answer: 317
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norHandlebarTypeCity)
+Answer: 318
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad) in(norHandlebarTypeCity)
+Answer: 319
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 320
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 321
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norTypeRoad) in(norSuspensionTypeRoad)
+Answer: 322
+in(w1HandlebarElevated) in(w2TypeRoad) in(norTypeRoad) in(norSuspensionTypeRoad)
+Answer: 323
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 324
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad) in(norSuspensionTypeTouring)
+Answer: 325
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(norSuspensionTypeRoad)
+Answer: 326
+in(w1HandlebarElevated) in(w2TypeRoad) in(norSuspensionTypeRoad)
+Answer: 327
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 328
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 329
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 330
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 331
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 332
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 333
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 334
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 335
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 336
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 337
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 338
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 339
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 340
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norFrameStepthrough)
+Answer: 341
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 342
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad) in(norFrameStepthrough)
+Answer: 343
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension)
+Answer: 344
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension)
+Answer: 345
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norTypeMountainSuspension)
+Answer: 346
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norTypeMountainSuspension)
+Answer: 347
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 348
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 349
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad)
+Answer: 350
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeRoad)
+Answer: 351
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension)
+Answer: 352
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring) in(norTypeMountainSuspension)
+Answer: 353
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad) in(norTypeMountainSuspension)
+Answer: 354
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad) in(norTypeMountainSuspension)
+Answer: 355
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 356
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad) in(norHandlebarTypeTouring)
+Answer: 357
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeRoad)
+Answer: 358
+in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeRoad)
+Answer: 359
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 360
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 361
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension)
+Answer: 362
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension)
+Answer: 363
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 364
+in(w2TypeRoad) in(w5Suspension) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 365
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 366
+in(w2TypeRoad) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 367
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 368
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 369
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norFrameStepthrough)
+Answer: 370
+in(w2TypeRoad) in(w5Suspension) in(norFrameStepthrough)
+Answer: 371
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad)
+Answer: 372
+in(w2TypeRoad) in(w5Suspension) in(norTypeRoad)
+Answer: 373
+in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension)
+Answer: 374
+in(w2TypeRoad) in(w5Suspension)
+Answer: 375
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 376
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 377
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 378
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 379
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 380
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 381
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 382
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeMountainSuspension) in(norFrameStepthrough)
+Answer: 383
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 384
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 385
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension)
+Answer: 386
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norTypeMountainSuspension)
+Answer: 387
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 388
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeCity) in(norTypeMountainSuspension)
+Answer: 389
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 390
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeMountainSuspension)
+Answer: 391
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 392
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 393
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity)
+Answer: 394
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norHandlebarTypeCity)
+Answer: 395
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 396
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeCity) in(norFrameStepthrough)
+Answer: 397
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norHandlebarTypeCity)
+Answer: 398
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norHandlebarTypeCity)
+Answer: 399
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 400
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad) in(norFrameStepthrough)
+Answer: 401
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norFrameStepthrough)
+Answer: 402
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norFrameStepthrough)
+Answer: 403
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension) in(norTypeRoad)
+Answer: 404
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension) in(norTypeRoad)
+Answer: 405
+in(w1HandlebarElevated) in(w2TypeRoad) in(w4WheelsSkinny) in(w5Suspension)
+Answer: 406
+in(w1HandlebarElevated) in(w2TypeRoad) in(w5Suspension)
+Answer: 407
+in(w4WheelsSkinny)
+Answer: 408
+in(w1HandlebarElevated) in(w4WheelsSkinny) in(norHandlebarTypeCity)
+Answer: 409
+in(w1HandlebarElevated) in(w4WheelsSkinny)
+SATISFIABLE
+
+Models       : 409
+Calls        : 1
+Time         : 0.012s (Solving: 0.00s 1st Model: 0.00s Unsat: 0.00s)
+CPU Time     : 0.012s

@@ -1,0 +1,28 @@
+FINISHED
+DURATION: 1.7845065593719482
+===
+Total successful derivations found: 1 
++++
+
+Derivation: 1
+Goal: f1
+Performed moves count: 0
+
+Defences count: 1
+Defences: [ f1 ]
+Culprits count: 0
+Culprits: [  ]
+Opponents assumptions count: 0
+Opponents assumptions: [  ]
+Proponent rules count: 0
+Proponent rules: [  ]
+Opponent rules count: 0
+Opponent rules: [  ]
+Proponent statements count: 1
+Proponent statements: [ f1 ]
+Opponent statements count: 0
+Opponent statements: [  ]
+Total statements count: 1
+Total statements: [ f1 ]
+Total rules count: 0
+

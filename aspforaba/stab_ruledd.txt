@@ -1,0 +1,32 @@
+Answer 1
+[ w1HandlebarElevated,w5Suspension,norTypeMountainSuspension,w7FrameStepthrough,norHandlebarTypeCity,norFrameStepthrough,w4WheelsSkinny ]
+
+Answer 2
+[ norSuspensionTypeTouring,w1HandlebarElevated,norTypeCity1,w7FrameStepthrough,norTypeCity2,norHandlebarTypeCity,norFrameStepthrough,norSuspensionTypeRoad,w4WheelsSkinny ]
+
+Answer 3
+[ w1HandlebarElevated,w5Suspension,norHandlebarTypeCity,w4WheelsSkinny,w3FrameRugged,norTypeMountainSuspension ]
+
+Answer 4
+[ norSuspensionTypeTouring,w1HandlebarElevated,norTypeRoad,norHandlebarTypeCity,w2TypeRoad,norFrameStepthrough,norSuspensionTypeRoad,w4WheelsSkinny ]
+
+Answer 5
+[ norSuspensionTypeTouring,norHandlebarTypeRoad,w2TypeRoad,norHandlebarTypeTouring,norTypeRoad,norFrameStepthrough,norSuspensionTypeRoad,w4WheelsSkinny ]
+
+Answer 6
+[ w5Suspension,norTypeMountainSuspension,norHandlebarTypeRoad,w2TypeRoad,norHandlebarTypeTouring,norTypeRoad,norFrameStepthrough,w4WheelsSkinny ]
+
+Answer 7
+[ w1HandlebarElevated,w5Suspension,norTypeMountainSuspension,norTypeRoad,norHandlebarTypeCity,w2TypeRoad,norFrameStepthrough,w4WheelsSkinny ]
+
+
+
+
+
+
+
+
+
+
+
+

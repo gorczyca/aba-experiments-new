@@ -1,0 +1,18 @@
+#!/bin/bash
+
+for f in $*
+do
+ if [ "${f}" = "-show" ]
+ then
+  show=0
+ else
+  stem=${f%.dot}
+  dot -Tps2 -o "${stem}.ps" "$f"
+  ps2pdf "${stem}.ps"
+  rm "${stem}.ps"
+  if [ ${show} ]
+  then
+   evince "${stem}.pdf" &
+  fi
+ fi
+done
