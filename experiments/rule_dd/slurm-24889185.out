@@ -1,0 +1,16 @@
+1/6800
+Traceback (most recent call last):
+  File "/scratch/ws/0/pigo271b-abaexp_workspace/experiments2/aba-experiments-new/experiments/rule_dd/run_ruledd_from_csv.py", line 56, in <module>
+    ruledd_output, is_timeout, duration = ut.get_rule_dd_output(instance_absolute_path, row.goal, timeout_time, rule_dd_args)
+  File "/lustre/scratch2/ws/0/pigo271b-abaexp_workspace/experiments2/aba-experiments-new/experiments/rule_dd/rule_dd_utils.py", line 29, in get_rule_dd_output
+    output = subprocess.check_output(total_command_string, stderr=subprocess.STDOUT, timeout=timeout_time)
+  File "/sw/installed/Anaconda3/2021.11/lib/python3.9/subprocess.py", line 424, in check_output
+    return run(*popenargs, stdout=PIPE, timeout=timeout, check=True,
+  File "/sw/installed/Anaconda3/2021.11/lib/python3.9/subprocess.py", line 505, in run
+    with Popen(*popenargs, **kwargs) as process:
+  File "/sw/installed/Anaconda3/2021.11/lib/python3.9/subprocess.py", line 951, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/sw/installed/Anaconda3/2021.11/lib/python3.9/subprocess.py", line 1821, in _execute_child
+    raise child_exception_type(errno_num, err_msg, err_filename)
+FileNotFoundError: [Errno 2] No such file or directory: '/usr/bin/java -cp /scratch/ws/0/pigo271b-abaexp_workspace/experiments2/aba-experiments-new/experiments/rule_dd/runner.jar experiments.runner.actualFinalExperiments.Runner --fr /scratch/ws/0/pigo271b-abaexp_workspace/experiments2/aba-experiments-new/instances/rule_dd_instances/exp_acyclic_depvary_step10_batch_yyy01.pl --goal a1 -i apx --mode normal --one 0 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs 1 --tc ta --da dab --swa 1 --turn o --psc p --osc p --prc smin --orc smax'
+srun: error: taurusi6560: task 0: Exited with exit code 1
