@@ -3,14 +3,14 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --time=100:00:00
 #SBATCH --mem-per-cpu=65535
-#SBATCH --job-name=AdmCredApprox
+#SBATCH --job-name=BAdmCredApprox
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pigo271b@tu-dresden.de
 
 PYTHON_SCRIPT_LOC="run_ruledd_from_csv.py"
 CSV_LOC="../nonfiltered_goals.csv"
 INSTANCES_DIR_LOC="../../instances/rule_dd_instances"
-EXPERIMENT_NAME="adm_cred_approx"
+EXPERIMENT_NAME="adm_cred_approx_b"
 TIMEOUT=600
 
 ADVANCEMENT_TYPES=(
