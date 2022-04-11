@@ -23,10 +23,11 @@ def get_rule_dd_output(file_absolute_path, query, timeout_time, rule_dd_args):
         commands_list.insert(3, f'--goal {query}')
 
     total_command_string = ' '.join(commands_list)
+    total_command_list = total_command_string.split()
 
     start = time.time()
     try:
-        output = subprocess.check_output(total_command_string, stderr=subprocess.STDOUT, timeout=timeout_time)
+        output = subprocess.check_output(total_command_list, stderr=subprocess.STDOUT, timeout=timeout_time)
         duration = time.time() - start
         output = output.decode()
         return output, False, duration
