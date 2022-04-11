@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --ntasks=20
 #SBATCH --cpus-per-task=1
-#SBATCH --time=200:00:00
+#SBATCH --time=100:00:00
 #SBATCH --mem-per-cpu=65535
 #SBATCH --job-name=AdmCred
 #SBATCH --mail-type=end
