@@ -27,16 +27,16 @@ for adv_type in "${ADVANCEMENT_TYPES[@]}"; do
         srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $DIR_LOC $EXTENSION $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn p --psc p --osc e --prc smin --orc smin
 
         # Strategy 2.
-        srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn o --psc e --osc p --prc smin --orc smin
+        srun --exclusive --ntasks=1 python$PYTHON_SCRIPT_LOC $DIR_LOC $EXTENSION $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn o --psc e --osc p --prc smin --orc smin
 
         # Strategy 3.
-        srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn s --psc p --osc e --prc smin --orc smin
+        srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $DIR_LOC $EXTENSION $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn s --psc p --osc e --prc smin --orc smin
 
         # Strategy 4.
-        srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn l --psc e --osc p --prc smax --orc smax
+        srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $DIR_LOC $EXTENSION $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn l --psc e --osc p --prc smax --orc smax
 
         # Strategy 5.
-        srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn p --psc p --osc p --prc l1s --orc l1s
+        srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $DIR_LOC $EXTENSION $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --outputArg 0 --propP 0.8 --oppP 0.7 --dfs $is_dfs --tc ta --da $adv_type --swa 0 --turn p --psc p --osc p --prc l1s --orc l1s
     done
 done
 
