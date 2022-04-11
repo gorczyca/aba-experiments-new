@@ -3,14 +3,14 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --time=100:00:00
 #SBATCH --mem-per-cpu=65535
-#SBATCH --job-name=CompCred
+#SBATCH --job-name=StabCred
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pigo271b@tu-dresden.de
 
 PYTHON_SCRIPT_LOC="run_ruledd_from_csv.py"
 CSV_LOC="../nonfiltered_goals.csv"
 INSTANCES_DIR_LOC="../../instances/rule_dd_instances"
-EXPERIMENT_NAME="comp_cred"
+EXPERIMENT_NAME="stab_cred"
 TIMEOUT=1200
 
 
