@@ -1,0 +1,75 @@
+% Assumptions
+asm(selIc).
+asm(selJh).
+asm(icNotMoreJh).
+asm(jhNotMoreIc).
+asm(icNMetCheap).
+asm(icNMetQuiet).
+asm(icNMetNear).
+asm(jhNMetCheap).
+asm(jhNMetQuiet).
+asm(jhNMetNear).
+
+% Contraries
+
+contrary(selIc,nSelIc).
+contrary(selJh,nSelJh).
+contrary(icNotMoreJh,icMoreJh).
+contrary(jhNotMoreIc,jhMoreIc).
+contrary(icNMetCheap,icMetCheap).
+contrary(icNMetQuiet,icMetQuiet).
+contrary(icNMetNear,icMetNear).
+contrary(jhNMetCheap,jhMetCheap).
+contrary(jhNMetQuiet,jhMetQuiet).
+contrary(jhNMetNear,jhMetNear).
+
+
+% Rules
+
+
+%more(X, Z) ← met(X, Y ), nM et(Z, Y )
+
+%rule(XMoreZ,[XMetY,ZNMetY]).
+
+%rule(XMoreZ,[XMetCheap,ZNMetCheap]).
+%rule(XMoreZ,[XMetQuiet,ZNMetQuiet]).
+%rule(XMoreZ,[XMetNear,ZNMetNear]).
+
+
+rule(icMoreIc,[icMetCheap,icNMetCheap]).
+rule(icMoreIc,[icMetQuiet,icNMetQuiet]).
+rule(icMoreIc,[icMetNear,icNMetNear]).
+rule(jhMoreJh,[jhMetCheap,jhNMetCheap]).
+rule(jhMoreJh,[jhMetQuiet,jhNMetQuiet]).
+rule(jhMoreJh,[jhMetNear,jhNMetNear]).
+rule(icMoreJh,[icMetCheap,jhNMetCheap]).
+rule(icMoreJh,[icMetQuiet,jhNMetQuiet]).
+rule(icMoreJh,[icMetNear,jhNMetNear]).
+rule(jhMoreIc,[jhMetCheap,icNMetCheap]).
+rule(jhMoreIc,[jhMetQuiet,icNMetQuiet]).
+rule(jhMoreIc,[jhMetNear,icNMetNear]).
+
+
+
+%nSel(X) ← met(Z, Y ), nM et(X, Y ), notM ore(X, Z)
+%nSel(X) <- more(Z,X), notMore(X,Z)
+
+
+
+rule(nSelIc,[icMoreIc,icNotMoreIc]).
+rule(nSelJh,[jhMoreJh,jhNotMoreJh]).
+rule(nSelIc,[jhMoreIc,icNotMoreJh]).
+rule(nSelJh,[icMoreJh,jhNotMoreIc]).
+
+
+
+%facts
+
+rule(icMetCheap,[]).
+rule(icMetQuiet,[]).
+rule(icMetNear,[]).
+
+rule(jhMetNear,[]).
+
+%G
+goal(selIc).

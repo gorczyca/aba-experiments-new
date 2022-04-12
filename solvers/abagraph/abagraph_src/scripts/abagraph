@@ -2,8 +2,8 @@
 
 # edit these two
 
-GRAPHARG="/home/piotrek/Dresden/aba_exp/instances_pack/abagraph/code/abagraph.pl"
-SICSTUS="/usr/local/sicstus4.7.1/bin/sicstus"
+GRAPHARG="/beegfs/ws/0/pigo271b-aba_ws_3/experiments2/aba-experiments-new/solvers/abagraph/abagraph_src/code/abagraph.pl"
+SICSTUS="/beegfs/ws/0/pigo271b-aba_ws_3/abagraph/sicstus/bin/sicstus"
 
 CLAIM=""
 DERIVEGOAL=""

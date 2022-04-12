@@ -1,2 +1,26 @@
-sbatch: error: Batch job submission failed: Job violates accounting/QOS policy (job submit limit, user's size and/or time limits)
-Submitted batch job 24889872
+Submitted batch job 24890164
+sbatch: error: Batch job submission failed: Requested node configuration is not available
+Submitted batch job 24890168
+Submitted batch job 24890177
+Submitted batch job 24890178
+sbatch: error: Unable to open file adm_cred_approx_both
+Submitted batch job 24890224
+Submitted batch job 24890225
+Submitted batch job 24890226
+Submitted batch job 24890266
+Submitted batch job 24890268
+Submitted batch job 24890270
+Submitted batch job 24890276
+Submitted batch job 24890277
+Submitted batch job 24890343
+Submitted batch job 24890363
+Submitted batch job 24890607
+Submitted batch job 24890608
+Submitted batch job 24890610
+Submitted batch job 24890611
+Submitted batch job 24890613
+Submitted batch job 24890614
+Submitted batch job 24890617
+Submitted batch job 24890618
+Submitted batch job 24890620
+Submitted batch job 24890622

@@ -38,6 +38,23 @@ set_strategies([TurnChoice,OppABAGrph,Prop,Opp,PropRule]) :-
  set_opt(opponent_sentence_choice, Opp),
  set_opt(proponent_rule_choice, PropRule).
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+set_strat_1 :-
+    set_strategies([[p,o],s,p,e,s]).
+
+set_strat_2 :-
+    set_strategies([[o,p],s,e,p,s]).
+
+set_strat_3 :-
+    set_strategies([s,s,p,e,s]).
+
+set_strat_4 :-
+    set_strategies([s,l,e,p,s]).    
+
+set_strat_5 :-
+    set_strategies([[p,o],s,p,p,l1]).  
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 set_verbose :-
  set_opt(verbose, true).
 set_quiet :-

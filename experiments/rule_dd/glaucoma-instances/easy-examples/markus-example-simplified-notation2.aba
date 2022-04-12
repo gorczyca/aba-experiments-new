@@ -1,0 +1,30 @@
+% Assumptions
+asm(fNequalsBob).
+asm(fNequalsF).
+asm(bobNequalsBob).
+
+asm(nTwoFathersAlice).
+
+% Contraries
+contrary(fNequalsBob,fEqualsBob).
+contrary(fNequalsF,fEqualsF).
+contrary(bobNequalsBob,bobEqualsBob).
+
+contrary(nTwoFathersAlice,twoFathersAlice).
+
+% Rules
+
+rule(humanAlice,[]).
+rule(aliceHasFatherBob,[]).
+rule(aliceHasFatherF,[humanAlice]).
+rule(bobEqualsBob,[aliceHasFatherBob]).
+rule(fEqualsF,[aliceHasFatherF]).
+rule(twoFathersAlice,[aliceHasFatherF,aliceHasFatherBob,fNequalsBob]).
+rule(twoFathersAlice,[aliceHasFatherF,aliceHasFatherF,fNequalsf]).
+rule(twoFathersAlice,[aliceHasFatherBob,aliceHasFatherBob,bobNequalsBob]).
+
+rule(oneFatherAlice,[nTwoFathersAlice]).
+
+
+%G
+goal(oneFatherAlice).

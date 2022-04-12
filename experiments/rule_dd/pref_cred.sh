@@ -3,7 +3,7 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --time=100:00:00
 #SBATCH --mem-per-cpu=65535
-#SBATCH --job-name=PrefCred
+#SBATCH --job-name=PrefCred2
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pigo271b@tu-dresden.de
 
