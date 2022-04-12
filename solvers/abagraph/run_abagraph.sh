@@ -5,6 +5,8 @@
 # $3 = ab/gb   #admissible / grounded
 # $4 = strategy numver
 
+export LC_ALL=C
+
 
 # set these!!!
 GRAPHARG="abagraph_src/code/abagraph.pl"
