@@ -1,0 +1,6 @@
+FINISHED
+DURATION: 0.6538834571838379
+===
+Total successful derivations found: 0 
++++
+
