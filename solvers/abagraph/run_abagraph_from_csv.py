@@ -22,6 +22,10 @@ def get_abagraph_output(file, query, sem, strat, timeout_time):
     except subprocess.TimeoutExpired as e:
         duration = time.time() - start
         return '', True, duration
+    except Exception as e:
+        #print(e) # This case covers when there is no successful DD
+        duration = time.time() - start
+        return '', False, duration
 
 
 def process_arguments(argv):
@@ -54,7 +58,7 @@ if __name__ == '__main__':
 
         abagraph_output, is_timeout, duration = get_abagraph_output(row.instance, row.goal, semantics, strategy, timeout_time)
 
-        file_contents = f'TIMEOUT\nDURATION: {duration}' if is_timeout else f'FINISHED\nDURATION: {duration}\n===\n{ruledd_output}'
+        file_contents = f'TIMEOUT\nDURATION: {duration}' if is_timeout else f'FINISHED\nDURATION: {duration}\n===\n{abagraph_output}'
 
         with open(output_file_path, 'w') as f:
             f.write(file_contents)
