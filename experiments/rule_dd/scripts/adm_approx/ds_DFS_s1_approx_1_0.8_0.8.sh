@@ -7,9 +7,11 @@
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pigo271b@tu-dresden.de
 
-PYTHON_SCRIPT_LOC="../run_ruledd_from_csv.py"
-CSV_LOC="../../all_goals.csv"
-INSTANCES_DIR_LOC="../../../instances/rule_dd_instances"
+PYTHON_SCRIPT_LOC="../../run_ruledd_from_csv.py"
+
+# the next two have to be relative to the python script!
+CSV_LOC="../all_goals.csv"
+INSTANCES_DIR_LOC="../../instances/rule_dd_instances"
 EXPERIMENT_NAME="ds_DFS_s1_approx_1_0.8_0.8_exp"
 TIMEOUT=600
 
