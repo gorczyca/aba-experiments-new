@@ -7,6 +7,7 @@
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pigo271b@tu-dresden.de
 
+
 PYTHON_SCRIPT_LOC="../run_ruledd_from_csv.py"
 CSV_LOC="../../all_goals.csv"
 INSTANCES_DIR_LOC="../../../instances/rule_dd_instances"
