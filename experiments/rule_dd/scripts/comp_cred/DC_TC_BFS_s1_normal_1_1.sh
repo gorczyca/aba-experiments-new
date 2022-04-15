@@ -10,8 +10,10 @@
 PYTHON_SCRIPT_LOC="../../run_ruledd_from_csv.py"
 
 # the next two have to be relative to the python script!
-CSV_LOC="../all_goals.csv"
-INSTANCES_DIR_LOC="../../instances/rule_dd_instances"
+CSV_LOC="/beegfs/ws/0/pigo271b-aba_ws_3/experiments2/aba-experiments-new/experiments/all_goals.csv"
+#CSV_LOC="../all_goals.csv"
+INSTANCES_DIR_LOC="/beegfs/ws/0/pigo271b-aba_ws_3/experiments2/aba-experiments-new/instances/rule_dd_instances"
+#INSTANCES_DIR_LOC="../../instances/rule_dd_instances"
 EXPERIMENT_NAME="DC_TC_BFS_s1_normal_1_1_exp"
 TIMEOUT=1200
 
