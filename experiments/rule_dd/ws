@@ -1,0 +1,1 @@
+ws_allocate -F beegfs -r 7 -m pigo271b@tu-dresden.de aba_ws_3 -d 100

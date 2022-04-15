@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --ntasks=40
+#SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
 #SBATCH --time=100:00:00
 #SBATCH --mem-per-cpu=65535
@@ -7,18 +7,12 @@
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pigo271b@tu-dresden.de
 
-PYTHON_SCRIPT_LOC="run_ruledd_from_csv.py"
-CSV_LOC="../nonfiltered_goals.csv"
-INSTANCES_DIR_LOC="../../instances/rule_dd_instances"
+SCRIPT_PATH="../.."
+PYTHON_SCRIPT_LOC="${SCRIPT_PATH}/run_ruledd_from_csv.py"
+CSV_LOC="${SCRIPT_PATH}/../nonfiltered_goals.csv"
+INSTANCES_DIR_LOC="${SCRIPT_PATH}/../../instances/rule_dd_instances"
 EXPERIMENT_NAME="adm_cred"
 TIMEOUT=600
-
-ADVANCEMENT_TYPES=(
-    "dab"
-    "dabf"
-    "dc"
-    "ds"
-)
 
 
 
