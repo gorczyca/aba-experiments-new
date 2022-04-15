@@ -1,0 +1,4 @@
+/sw/installed/Anaconda3/2021.11/bin/python: can't open file '/beegfs/.global0/ws/pigo271b-aba_ws_3/experiments2/aba-experiments-new/experiments/rule_dd/scripts/adm_cred/../run_ruledd_from_csv.py': [Errno 2] No such file or directory
+srun: error: taurusi4197: task 0: Exited with exit code 2
+waiting for all jobs to complete
+all parallel tasks finished
