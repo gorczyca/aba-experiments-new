@@ -7,7 +7,7 @@
 # podobne do default strategy z abagraph
 # pf1 na poczatku dla innych niz dab
 # 1.
-STRAT_1 = '--ordering pf1pb1ob2of2ob1pb2pf2 --prc l1 --orc l1 --phc r --ohc r'
+STRAT_1 = '--ordering pf1pb1ob2of2ob1pb2pf2 --prc l1s --orc l1s --phc r --ohc r'
 
 # proponent jest zachowawczy w ruchach, zeby zminimalizować branching,
 # wykonuje swoje ruchy wymagajace branchowania na samym koncu
