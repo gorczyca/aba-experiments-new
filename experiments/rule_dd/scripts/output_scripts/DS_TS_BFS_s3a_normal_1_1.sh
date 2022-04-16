@@ -17,7 +17,7 @@ INSTANCES_DIR_LOC="/beegfs/ws/0/pigo271b-aba_ws_3/experiments2/aba-experiments-n
 EXPERIMENT_NAME="DS_TS_BFS_s3a_normal_1_1_exp"
 TIMEOUT=1200
 
-srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --dfs 0 --tc TS --da xDAx --swa 1 --ordering pf1pb2pf2pb1ob2of2ob1 --prc smax --orc smax --phc m --ohc m --propP 1 --oppP 1
+srun --exclusive --ntasks=1 python $PYTHON_SCRIPT_LOC $CSV_LOC $INSTANCES_DIR_LOC $EXPERIMENT_NAME $TIMEOUT -i apx --mode normal --one 1 --dfs 0 --tc TS --da DS --swa 1 --ordering pf1pb2pf2pb1ob2of2ob1 --prc smax --orc smax --phc m --ohc m --propP 1 --oppP 1
 
 
 echo "waiting for all jobs to complete"

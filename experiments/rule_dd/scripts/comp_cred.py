@@ -25,7 +25,8 @@ OPTIONS = {
     ct.ONE_KEY: ONE,
     ct.PROP_P_KEY: P_VAL,
     ct.OPP_P_KEY: P_VAL,
-    ct.TC_KEY: TC
+    ct.TC_KEY: TC,
+    ct.DA_KEY: DA
 }
 
 if __name__ == '__main__':
