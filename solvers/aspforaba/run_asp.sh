@@ -6,9 +6,10 @@
 # TODO: set the paths here
 ASP_DIR="/home/piotrek/Dresden/aba_exp/instances_pack/solvers/aspforaba"
 INSTANCES_DIR="/home/piotrek/Dresden/aba_exp/instances_pack/instances/asp_for_aba_instances/"
+CLINGO_DIR="/home/piotrek/miniconda3/envs/dpdb_env/bin/clingo"
 #dir=$(dirname $0)
 # create query file
 echo "query($2)." > ${ASP_DIR}/query.dl
 # run clingo
 #clingo $dir/aspforaba/first_level_encodings/adm-aba.dl $dir/cred-aba.dl $dir/asp_for_aba_instances/$1 $dir/query.dl --quiet=3 | grep 'SATISFIABLE\|CPU Time'
-clingo ${ASP_DIR}/aspforaba_src/first_level_encodings/adm-aba.dl ${ASP_DIR}/cred-aba.dl ${INSTANCES_DIR}/$1 ${ASP_DIR}/query.dl --quiet=3 | grep 'SATISFIABLE\|CPU Time'
+${CLINGO_DIR} ${ASP_DIR}/aspforaba_src/first_level_encodings/adm-aba.dl ${ASP_DIR}/cred-aba.dl ${INSTANCES_DIR}/$1 ${ASP_DIR}/query.dl --quiet=3 | grep 'SATISFIABLE\|CPU Time'
