@@ -1,0 +1,12 @@
+%% Everything derivable from undef 
+preferredly_supported_by_undef(X,Y) :- not_less_preferred(X,Y), assumption(X), undef(X).
+preferredly_supported_by_undef(X,Y) :- head(R,X), preferredly_triggered_by_undef(R,Y).
+preferredly_triggered_by_undef(R,Y) :- head(R,_), assumption(Y), preferredly_supported_by_undef(X,Y) : body(R,X).
+
+%% The undefeated assumption Y is defeated by a normal attack from undef to Y when taking preferences into account
+undef_normally_defeated_by_undef(Y) :- undef(Y), preferredly_supported_by_undef(X,Y), contrary(Y,X).
+
+undef_reversely_defeated_by_undef(Z) :- strictly_less_preferred(Z,X), undef(X), contrary(X,Y), derived_from_undefeated_assumption(Y,Z).
+
+% Every undefeated (by in) assumption must either be in or defeated by the set of undefeated assumptions
+:- out(Y), undef(Y), not undef_normally_defeated_by_undef(Y), not undef_reversely_defeated_by_undef(Y).

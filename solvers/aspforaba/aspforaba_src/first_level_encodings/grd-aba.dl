@@ -1,0 +1,40 @@
+%% Count the number of assumptions and thus number of iterations
+n_assumptions(N) :- #count{X : assumption(X)} = N.
+iteration(0..N) :- n_assumptions(N).
+
+%% Everything derivable from assumptions that are in at iteration I
+supported(X,I) :- assumption(X), in(X,I).
+supported(X,I) :- head(R,X), triggered_by_in(R,I).
+triggered_by_in(R,I) :- iteration(I), head(R,_), supported(X,I) : body(R,X).
+
+%% Conflict freeness at iteration I
+:- in(X,I), contrary(X,Y), supported(Y,I).
+
+%% assumptions attacked by the in arguments at iteration I
+defeated(X,I) :- supported(Y,I), contrary(X,Y).
+
+%% Everything derivable from assumptionpts that are not defeated by in at iteration I
+derived_from_undefeated(X,I) :- iteration(I), assumption(X), not defeated(X,I).
+derived_from_undefeated(X,I) :- head(R,X), triggered_by_undefeated(R,I).
+triggered_by_undefeated(R,I) :- iteration(I), head(R,_), derived_from_undefeated(X,I) : body(R,X).
+
+%% X is attacked by assumptions that are not attacked by in at iteration I
+attacked_by_undefeated(X,I) :- contrary(X,Y), derived_from_undefeated(Y,I).
+
+%% X is in at iteration I if it is not attacked by the undefeated assumptions of iteration I-1
+in(X,I) :- iteration(J), assumption(X), not attacked_by_undefeated(X,J), J+1=I.
+
+%% X is in if it is in at the last iteration
+in(X) :- in(X,N), n_assumptions(N).
+
+%% sentence X is supported by the grounded assumption set
+supported(X) :- supported(X,N), n_assumptions(N).
+
+%#show in/1.
+%#show in/2.
+%#show supported/2.
+#show supported/1.
+#show n_assumptions/1.
+
+% Acceptance of query (credulous and skeptical coincide for grounded)
+:- not supported(X), query(X).

@@ -1,0 +1,52 @@
+% We are given the target assumption target(X) and the to-be grounded extension def(X)
+
+%% Assumption is either suspect or not
+suspect(X) :- assumption(X), not other(X).
+other(X) :- assumption(X), not suspect(X).
+
+%% preferred(X,Z) --> Z <= X. 
+%% not_less_preferred(X,Y) --> not(X<Y)
+preferred(X,Z) :- preferred(X,Y), preferred(Y,Z).
+strictly_less_preferred(X,Y) :- preferred(Y,X), not preferred(X,Y).
+not_less_preferred(X,Y) :- assumption(X), assumption(Y), not strictly_less_preferred(X,Y).
+
+% sentences derivable from the suspects that are not less preferred than target
+preferredly_supported_by_suspects(X) :- target(Y), not_less_preferred(X,Y), assumption(X), suspect(X).
+preferredly_supported_by_suspects(X) :- head(R,X), preferredly_triggered_by_suspect(R).
+preferredly_triggered_by_suspect(R) :- head(R,_), preferredly_supported_by_suspects(X) : body(R,X).
+
+target_normally_attacked :- target(Y), preferredly_supported_by_suspects(X), contrary(Y,X). 
+
+%% everything derived from target by itself
+derived_from_target(X) :- target(X).
+derived_from_target(X) :- head(R,X), triggered_by_target(R).
+triggered_by_target(R) :- head(R,_), derived_from_target(X) : body(R,X).
+
+suspect_attacked_by_target(X) :- suspect(X), contrary(X,Y), derived_from_target(Y).
+
+%% An attack from target to in is reversed
+target_reversely_attacked :- target(Y), strictly_less_preferred(Y,X), suspect_attacked_by_target(X).
+
+% sentences supported by def in terms of suspects and preferences
+supported_by_def(X,Y) :- suspect(Y), not_less_preferred(X,Y), assumption(X), def(X).
+supported_by_def(X,Y) :- suspect(Y), head(R,X), triggered_by_def(R,Y).
+triggered_by_def(R,Y) :- head(R,_), assumption(Y), supported_by_def(X,Y) : body(R,X).
+
+%% The assumption Y is defeated by a normal attack from def to Y when taking preferences into account
+suspect_normally_defeated_by_def :- supported_by_def(X,Y), contrary(Y,X).
+
+% sentences supported by suspect and rules triggered
+supported_by_suspect(X) :- assumption(X), suspect(X).
+supported_by_suspect(X) :- head(R,X), triggered_by_suspect(R).
+triggered_by_suspect(R) :- head(R,_), supported_by_suspect(X) : body(R,X).
+
+reachable(X,Y) :- triggered_by_suspect(R), head(R,Y), body(R,X).
+reachable(X,Y) :- reachable(X,Z), reachable(Z,Y).
+reachable(X,X) :- suspect(X).
+
+suspect_reversely_defeated_by_def :- def(Y), contrary(Y,X), supported_by_suspect(X), suspect(Z), reachable(Z,X), strictly_less_preferred(Z,Y).
+
+% if for all suspect-sets, at least one of the following constraints is violated, then the target is defended by def.
+:- suspect_normally_defeated_by_def.
+:- suspect_reversely_defeated_by_def.
+:- not target_normally_attacked, not target_reversely_attacked. 

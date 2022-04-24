@@ -1,0 +1,54 @@
+%% Assumption is either in or out
+in(X) :- assumption(X), not out(X).
+out(X) :- assumption(X), not in(X).
+
+%% Everything derivable from assumptions that are in
+supported(X) :- assumption(X), in(X).
+supported(X) :- head(R,X), triggered_by_in(R).
+triggered_by_in(R) :- head(R,_), supported(X) : body(R,X).
+
+%% conflict freeness
+:- in(X), contrary(X,Y), supported(Y).
+
+%% preferred(X,Z) --> Z <= X. 
+%% not_less_preferred(X,Y) --> not(X<Y)
+preferred(X,Z) :- preferred(X,Y), preferred(Y,Z).
+strictly_less_preferred(X,Y) :- preferred(Y,X), not preferred(X,Y).
+not_less_preferred(X,Y) :- assumption(X), assumption(Y), not strictly_less_preferred(X,Y).
+
+%% Everything derivable from assumptions that are in and are not less
+%% preferred than a given out-assumption
+preferredly_supported(X,Y) :- not_less_preferred(X,Y), assumption(X), in(X).
+preferredly_supported(X,Y) :- head(R,X), preferredly_triggered_by_in(R,Y).
+preferredly_triggered_by_in(R,Y) :- head(R,_), assumption(Y), preferredly_supported(X,Y) : body(R,X).
+
+%% The assumption Y is defeated by a normal attack from in to Y when taking preferences into account
+normally_defeated(Y) :- preferredly_supported(X,Y), contrary(Y,X).
+
+%% everything derived from the normally undefeated assumption Z by itself
+derived_from_undefeated_assumption(Z,Z) :- assumption(Z), not normally_defeated(Z).
+derived_from_undefeated_assumption(Y,Z) :- head(R,Y), triggered_by_undefeated_assumption(R,Z).
+triggered_by_undefeated_assumption(R,Z) :- head(R,_), assumption(Z), 
+									derived_from_undefeated_assumption(Y,Z) : body(R,Y).
+
+in_assumption_attacked_by_normally_undefeated_assumption(X,Z) :- in(X), contrary(X,Y), 
+									derived_from_undefeated_assumption(Y,Z).
+
+%% An attack from Z to in is reversed
+reversely_defeated(Z) :- strictly_less_preferred(Z,X), 
+									in_assumption_attacked_by_normally_undefeated_assumption(X,Z).
+
+%% Any assumption that is out must either be normally defeated or defeated by a reversed attack
+:- out(Y), not normally_defeated(Y), not reversely_defeated(Y).
+
+#show in/1.
+#show supported/1.
+
+%%%%%
+% To answer queries, uncomment one of the following.
+
+%% credulous
+%:- not supported(X), query(X).
+
+%% skeptical
+% :- supported(X), query(X).

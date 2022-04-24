@@ -1,0 +1,66 @@
+%% we are given the candidate set as in(X) and the undefeated assumptions as undef(X)
+
+%% Assumption is either suspect or not
+suspect(X) :- undef(X), not other(X).
+other(X) :- undef(X), not suspect(X).
+
+%% preferred(X,Z) --> Z <= X. 
+%% not_less_preferred(X,Y) --> not(X<Y)
+preferred(X,Z) :- preferred(X,Y), preferred(Y,Z).
+strictly_less_preferred(X,Y) :- preferred(Y,X), not preferred(X,Y).
+not_less_preferred(X,Y) :- assumption(X), assumption(Y), not strictly_less_preferred(X,Y).
+
+%%% Determining attacks from suspects to in 
+% sentences derivable from the suspects that are not less preferred than a given in-asmpt
+preferredly_supported_by_suspects(X,Y) :- in(Y), not_less_preferred(X,Y), assumption(X), suspect(X).
+% in(Y) not needed on the next line?
+preferredly_supported_by_suspects(X,Y) :- in(Y), head(R,X), preferredly_triggered_by_suspect(R,Y).
+preferredly_triggered_by_suspect(R,Y) :- in(Y), head(R,_), preferredly_supported_by_suspects(X,Y) : body(R,X).
+
+in_normally_defeated_by_suspects :- in(Y), preferredly_supported_by_suspects(X,Y), contrary(Y,X). 
+
+% sentences supported by def and rules triggered
+supported_by_in(X) :- assumption(X), in(X).
+supported_by_in(X) :- head(R,X), triggered_by_in(R).
+triggered_by_in(R) :- head(R,_), supported_by_in(X) : body(R,X).
+
+reachable_in(X,Y) :- triggered_by_in(R), head(R,Y), body(R,X).
+reachable_in(X,Y) :- reachable_in(X,Z), reachable_in(Z,Y).
+reachable_in(X,X) :- in(X).
+
+in_reversely_defeated_by_suspects :- suspect(Y), contrary(Y,X), supported_by_in(X), in(Z), reachable_in(Z,X), strictly_less_preferred(Z,Y).
+
+% not a counterexample if suspects don't attack in at all
+:- not in_normally_defeated_by_suspects, not in_reversely_defeated_by_suspects.
+
+%%% Determining attacks from in to suspects
+% sentences derivable from in that are not less preferred than a given suspect
+preferredly_supported_by_in(X,Y) :- suspect(Y), not_less_preferred(X,Y), assumption(X), in(X).
+% suspect(Y) not needed on the next line?
+preferredly_supported_by_in(X,Y) :- suspect(Y), head(R,X), preferredly_triggered_by_in(R,Y).
+preferredly_triggered_by_in(R,Y) :- suspect(Y), head(R,_), preferredly_supported_by_in(X,Y) : body(R,X).
+
+suspects_normally_defeated_by_in :- suspect(Y), preferredly_supported_by_in(X,Y), contrary(Y,X). 
+
+% sentences supported by def and rules triggered
+supported_by_suspect(X) :- assumption(X), suspect(X).
+supported_by_suspect(X) :- head(R,X), triggered_by_suspect(R).
+triggered_by_suspect(R) :- head(R,_), supported_by_suspect(X) : body(R,X).
+
+reachable_suspect(X,Y) :- triggered_by_suspect(R), head(R,Y), body(R,X).
+reachable_suspect(X,Y) :- reachable_suspect(X,Z), reachable_suspect(Z,Y).
+reachable_suspect(X,X) :- suspect(X).
+
+suspects_reversely_defeated_by_in :- in(Y), contrary(Y,X), supported_by_suspect(X), suspect(Z), reachable_suspect(Z,X), strictly_less_preferred(Z,Y).
+
+% not a counterexample if suspects are defeated
+:- suspects_normally_defeated_by_in.
+:- suspects_reversely_defeated_by_in.
+
+#show in/1.
+#show suspect/1.
+#show in_normally_defeated_by_suspects/0.
+#show in_reversely_defeated_by_suspects/0.
+#show suspects_normally_defeated_by_in/0.
+#show suspects_reversely_defeated_by_in/0.
+
