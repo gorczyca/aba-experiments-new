@@ -34,6 +34,10 @@ def get_rule_dd_output(file_absolute_path, query, timeout_time, rule_dd_args):
     except subprocess.TimeoutExpired as e:
         duration = time.time() - start
         return '', True, duration
+    except subprocess.CalledProcessError as e:
+        print(e.output)
+        print(e.stdout)
+        print(e.stderr)
     #except Exception as e:
     #    return 'error', True, 0
 
