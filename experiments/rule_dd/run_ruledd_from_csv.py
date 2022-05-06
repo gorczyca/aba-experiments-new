@@ -55,7 +55,7 @@ if __name__ == '__main__':
         instance_absolute_path = os.path.join(instances_path, row.instance)
         ruledd_output, is_timeout, duration = ut.get_rule_dd_output(instance_absolute_path, row.goal, timeout_time, rule_dd_args)
 
-        file_contents = f'TIMEOUT\nDURATION: {duration}' if is_timeout else f'FINISHED\nDURATION: {duration}\n===\n{ruledd_output}'
+        file_contents = f'{ruledd_output}\nDURATION: {duration}' if is_timeout else f'FINISHED\nDURATION: {duration}\n===\n{ruledd_output}'
 
         with open(output_file_path, 'w') as f:
             f.write(file_contents)
