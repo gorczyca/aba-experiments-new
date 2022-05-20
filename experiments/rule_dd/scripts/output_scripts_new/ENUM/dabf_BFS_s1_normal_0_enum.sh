@@ -3,7 +3,7 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --time=100:00:00
 #SBATCH --mem-per-cpu=16384
-#SBATCH --job-name=2_dabf_BFS_s1_normal_0
+#SBATCH --job-name=enum_dabf_BFS_s1_normal_0
 #SBATCH --mail-type=end
 #SBATCH --mail-user=pigo271b@tu-dresden.de
 
