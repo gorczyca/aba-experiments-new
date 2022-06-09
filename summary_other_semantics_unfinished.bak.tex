@@ -1,0 +1,95 @@
+% \usepackage{caption}
+% \usepackage{multirow}
+% \usepackage{hhline}
+
+
+\begin{table}
+\centering
+{\tiny\renewcommand{\arraystretch}{.8}
+\resizebox{!}{.35\paperheight}{%
+\begin{tabular}{|l|r|l|l|l|l|}
+\hline
+\multirow{2}{*}{Str.} &            & \multicolumn{2}{c|}{Start w/ DABF+TA}          & \multicolumn{2}{c|}{Start w/ DC+TC}        \\
+\cline{3-6}
+                      &            & \multicolumn{1}{c|}{DFS} & \multicolumn{1}{c|}{BFS} & \multicolumn{1}{c|}{DFS} & \multicolumn{1}{c|}{BFS}  \\
+\hline
+\hline
+\multirow{8}{*}{1}    & \#solved & 1_SWA_DFS_SOLVED        & 1_SWA_BFS_SOLVED     & 1_SWOA_DFS_SOLVED    & 1_SWOA_BFS_SOLVED     \\
+                      & \#timeout. [h] & 1_SWA_DFS_TIMEOUT     & 1_SWA_BFS_TIMEOUT     & 1_SWOA_DFS_TIMEOUT    & 1_SWOA_BFS_TIMEOUT     \\
+                      & total time [h] & 1_SWA_DFS_TOTAL       & 1_SWA_BFS_TOTAL       & 1_SWOA_DFS_TOTAL      & 1_SWOA_BFS_TOTAL       \\
+                      & 95\% time [h]  & 1_SWA_DFS_95          & 1_SWA_BFS_95          & 1_SWOA_DFS_95         & 1_SWOA_BFS_95          \\
+\cline{2-6}
+                      & min [s]        & 1_SWA_DFS_MIN         & 1_SWA_BFS_MIN         & 1_SWOA_DFS_MIN        & 1_SWOA_BFS_MIN         \\
+                      & median [s]     & 1_SWA_DFS_MEDIAN      & 1_SWA_BFS_MEDIAN      & 1_SWOA_DFS_MEDIAN     & 1_SWOA_BFS_MEDIAN      \\
+                      & mean [s]       & 1_SWA_DFS_MEAN        & 1_SWA_BFS_MEAN        & 1_SWOA_DFS_MEAN       & 1_SWOA_BFS_MEAN        \\
+                      & max [s]        & 1_SWA_DFS_MAX         & 1_SWA_BFS_MAX         & 1_SWOA_DFS_MAX        & 1_SWOA_BFS_MAX         \\
+\hline
+\hline
+\multirow{8}{*}{1a}   & \#solved & 1a_SWA_DFS_SOLVED    & 1a_SWA_BFS_SOLVED    & 1a_SWOA_DFS_SOLVED   & 1a_SWOA_BFS_SOLVED    \\
+                      & \#timeout. [h] & 1a_SWA_DFS_TIMEOUT    & 1a_SWA_BFS_TIMEOUT    & 1a_SWOA_DFS_TIMEOUT   & 1a_SWOA_BFS_TIMEOUT    \\
+                      & total time [h] & 1a_SWA_DFS_TOTAL      & 1a_SWA_BFS_TOTAL      & 1a_SWOA_DFS_TOTAL     & 1a_SWOA_BFS_TOTAL      \\
+                      & 95\% time [h]  & 1a_SWA_DFS_95         & 1a_SWA_BFS_95         & 1a_SWOA_DFS_95        & 1a_SWOA_BFS_95         \\
+\cline{2-6}
+                      & min [s]        & 1a_SWA_DFS_MIN        & 1a_SWA_BFS_MIN        & 1a_SWOA_DFS_MIN       & 1a_SWOA_BFS_MIN        \\
+                      & median [s]     & 1a_SWA_DFS_MEDIAN     & 1a_SWA_BFS_MEDIAN     & 1a_SWOA_DFS_MEDIAN    & 1a_SWOA_BFS_MEDIAN     \\
+                      & mean [s]       & 1a_SWA_DFS_MEAN       & 1a_SWA_BFS_MEAN       & 1a_SWOA_DFS_MEAN      & 1a_SWOA_BFS_MEAN       \\
+                      & max [s]        & 1a_SWA_DFS_MAX        & 1a_SWA_BFS_MAX        & 1a_SWOA_DFS_MAX       & 1a_SWOA_BFS_MAX        \\
+\hline
+\hline
+\multirow{8}{*}{1b}   & \#solved & 1b_SWA_DFS_SOLVED    & 1b_SWA_BFS_SOLVED    & 1b_SWOA_DFS_SOLVED   & 1b_SWOA_BFS_SOLVED    \\
+                      & \#timeout. [h] & 1b_SWA_DFS_TIMEOUT    & 1b_SWA_BFS_TIMEOUT    & 1b_SWOA_DFS_TIMEOUT   & 1b_SWOA_BFS_TIMEOUT    \\
+                      & total time [h] & 1b_SWA_DFS_TOTAL      & 1b_SWA_BFS_TOTAL      & 1b_SWOA_DFS_TOTAL     & 1b_SWOA_BFS_TOTAL      \\
+                      & 95\% time [h]  & 1b_SWA_DFS_95         & 1b_SWA_BFS_95         & 1b_SWOA_DFS_95        & 1b_SWOA_BFS_95         \\
+\cline{2-6}
+                      & min [s]        & 1b_SWA_DFS_MIN        & 1b_SWA_BFS_MIN        & 1b_SWOA_DFS_MIN       & 1b_SWOA_BFS_MIN        \\
+                      & median [s]     & 1b_SWA_DFS_MEDIAN     & 1b_SWA_BFS_MEDIAN     & 1b_SWOA_DFS_MEDIAN    & 1b_SWOA_BFS_MEDIAN     \\
+                      & mean [s]       & 1b_SWA_DFS_MEAN       & 1b_SWA_BFS_MEAN       & 1b_SWOA_DFS_MEAN      & 1b_SWOA_BFS_MEAN       \\
+                      & max [s]        & 1b_SWA_DFS_MAX        & 1b_SWA_BFS_MAX        & 1b_SWOA_DFS_MAX       & 1b_SWOA_BFS_MAX        \\
+\hline
+\hline
+\multirow{8}{*}{2}    & \#solved & 2_SWA_DFS_SOLVED     & 2_SWA_BFS_SOLVED     & 2_SWOA_DFS_SOLVED    & 2_SWOA_BFS_SOLVED     \\
+                      & \#timeout. [h] & 2_SWA_DFS_TIMEOUT     & 2_SWA_BFS_TIMEOUT     & 2_SWOA_DFS_TIMEOUT    & 2_SWOA_BFS_TIMEOUT     \\
+                      & total time [h] & 2_SWA_DFS_TOTAL       & 2_SWA_BFS_TOTAL       & 2_SWOA_DFS_TOTAL      & 2_SWOA_BFS_TOTAL       \\
+                      & 95\% time [h]  & 2_SWA_DFS_95          & 2_SWA_BFS_95          & 2_SWOA_DFS_95         & 2_SWOA_BFS_95          \\
+\cline{2-6}
+                      & min [s]        & 2_SWA_DFS_MIN         & 2_SWA_BFS_MIN         & 2_SWOA_DFS_MIN        & 2_SWOA_BFS_MIN         \\
+                      & median [s]     & 2_SWA_DFS_MEDIAN      & 2_SWA_BFS_MEDIAN      & 2_SWOA_DFS_MEDIAN     & 2_SWOA_BFS_MEDIAN      \\
+                      & mean [s]       & 2_SWA_DFS_MEAN        & 2_SWA_BFS_MEAN        & 2_SWOA_DFS_MEAN       & 2_SWOA_BFS_MEAN        \\
+                      & max [s]        & 2_SWA_DFS_MAX         & 2_SWA_BFS_MAX         & 2_SWOA_DFS_MAX        & 2_SWOA_BFS_MAX         \\
+\hline
+\hline
+\multirow{8}{*}{2a}   & \#solved & 2a_SWA_DFS_SOLVED    & 2a_SWA_BFS_SOLVED    & 2a_SWOA_DFS_SOLVED   & 2a_SWOA_BFS_SOLVED    \\
+                      & \#timeout. [h] & 2a_SWA_DFS_TIMEOUT    & 2a_SWA_BFS_TIMEOUT    & 2a_SWOA_DFS_TIMEOUT   & 2a_SWOA_BFS_TIMEOUT    \\
+                      & total time [h] & 2a_SWA_DFS_TOTAL      & 2a_SWA_BFS_TOTAL      & 2a_SWOA_DFS_TOTAL     & 2a_SWOA_BFS_TOTAL      \\
+                      & 95\% time [h]  & 2a_SWA_DFS_95         & 2a_SWA_BFS_95         & 2a_SWOA_DFS_95        & 2a_SWOA_BFS_95         \\
+\cline{2-6}
+                      & min [s]        & 2a_SWA_DFS_MIN        & 2a_SWA_BFS_MIN        & 2a_SWOA_DFS_MIN       & 2a_SWOA_BFS_MIN        \\
+                      & median [s]     & 2a_SWA_DFS_MEDIAN     & 2a_SWA_BFS_MEDIAN     & 2a_SWOA_DFS_MEDIAN    & 2a_SWOA_BFS_MEDIAN     \\
+                      & mean [s]       & 2a_SWA_DFS_MEAN       & 2a_SWA_BFS_MEAN       & 2a_SWOA_DFS_MEAN      & 2a_SWOA_BFS_MEAN       \\
+                      & max [s]        & 2a_SWA_DFS_MAX        & 2a_SWA_BFS_MAX        & 2a_SWOA_DFS_MAX       & 2a_SWOA_BFS_MAX        \\
+\hline
+\hline
+\multirow{8}{*}{2b}   & \#solved & 2b_SWA_DFS_SOLVED    & 2b_SWA_BFS_SOLVED    & 2b_SWOA_DFS_SOLVED   & 2b_SWOA_BFS_SOLVED    \\
+                      & \#timeout. [h] & 2b_SWA_DFS_TIMEOUT    & 2b_SWA_BFS_TIMEOUT    & 2b_SWOA_DFS_TIMEOUT   & 2b_SWOA_BFS_TIMEOUT    \\
+                      & total time [h] & 2b_SWA_DFS_TOTAL      & 2b_SWA_BFS_TOTAL      & 2b_SWOA_DFS_TOTAL     & 2b_SWOA_BFS_TOTAL      \\
+                      & 95\% time [h]  & 2b_SWA_DFS_95         & 2b_SWA_BFS_95         & 2b_SWOA_DFS_95        & 2b_SWOA_BFS_95         \\
+\cline{2-6}
+                      & min [s]        & 2b_SWA_DFS_MIN        & 2b_SWA_BFS_MIN        & 2b_SWOA_DFS_MIN       & 2b_SWOA_BFS_MIN        \\
+                      & median [s]     & 2b_SWA_DFS_MEDIAN     & 2b_SWA_BFS_MEDIAN     & 2b_SWOA_DFS_MEDIAN    & 2b_SWOA_BFS_MEDIAN     \\
+                      & mean [s]       & 2b_SWA_DFS_MEAN       & 2b_SWA_BFS_MEAN       & 2b_SWOA_DFS_MEAN      & 2b_SWOA_BFS_MEAN       \\
+                      & max [s]        & 2b_SWA_DFS_MAX        & 2b_SWA_BFS_MAX        & 2b_SWOA_DFS_MAX       & 2b_SWOA_BFS_MAX        \\
+\hline
+\hline
+\multirow{8}{*}{3}    & \#solved & 3_SWA_DFS_SOLVED     & 3_SWA_BFS_SOLVED     & 3_SWOA_DFS_SOLVED    & 3_SWOA_BFS_SOLVED     \\
+                      & \#timeout. [h] & 3_SWA_DFS_TIMEOUT     & 3_SWA_BFS_TIMEOUT     & 3_SWOA_DFS_TIMEOUT    & 3_SWOA_BFS_TIMEOUT     \\
+                      & total time [h] & 3_SWA_DFS_TOTAL       & 3_SWA_BFS_TOTAL       & 3_SWOA_DFS_TOTAL      & 3_SWOA_BFS_TOTAL       \\
+                      & 95\% time [h]  & 3_SWA_DFS_95          & 3_SWA_BFS_95          & 3_SWOA_DFS_95         & 3_SWOA_BFS_95          \\
+\cline{2-6}
+                      & min [s]        & 3_SWA_DFS_MIN         & 3_SWA_BFS_MIN         & 3_SWOA_DFS_MIN        & 3_SWOA_BFS_MIN         \\
+                      & median [s]     & 3_SWA_DFS_MEDIAN      & 3_SWA_BFS_MEDIAN      & 3_SWOA_DFS_MEDIAN     & 3_SWOA_BFS_MEDIAN      \\
+                      & mean [s]       & 3_SWA_DFS_MEAN        & 3_SWA_BFS_MEAN        & 3_SWOA_DFS_MEAN       & 3_SWOA_BFS_MEAN        \\
+                      & max [s]        & 3_SWA_DFS_MAX         & 3_SWA_BFS_MAX         & 3_SWOA_DFS_MAX        & 3_SWOA_BFS_MAX         \\
+\hline
+\end{tabular}}}
+\caption{xCAPTIONx}
+\end{table}
